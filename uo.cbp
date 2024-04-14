@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="uo" />
+		<Option title="ChickenInvaders" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -59,7 +59,7 @@
 			<Add directory="../../../../../Development/x86_64-w64-mingw32_mixer/lib" />
 			<Add directory="../../../../../Development/x86_64-w64-mingw32_ttf/lib" />
 		</Linker>
-		<Unit filename="thao.cpp" />
+		<Unit filename="game.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

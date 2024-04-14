@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1712050829 source:c:\users\admin\desktop\code\uo\thao.cpp
+1712050829 source:c:\users\admin\desktop\code\chickeninvaders\thao.cpp
 	<SDL.h>
 	<SDL_ttf.h>
 	<bits/stdc++.h>
@@ -399,6 +399,11 @@
 	"begin_code.h"
 	"close_code.h"
 
+1705848875 c:\development\x86_64-w64-mingw32_ttf\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
 1704144973 c:\development\x86_64-w64-mingw32_image\include\sdl2\sdl_image.h
 	"SDL.h"
 	"SDL_version.h"
@@ -413,16 +418,4 @@
 	"SDL_version.h"
 	"begin_code.h"
 	"close_code.h"
-
-1705848875 c:\development\x86_64-w64-mingw32_ttf\include\sdl2\sdl_ttf.h
-	"SDL.h"
-	"begin_code.h"
-	"close_code.h"
-
-1713001514 source:c:\users\admin\desktop\code\uo\game.cpp
-	<SDL.h>
-	<SDL_ttf.h>
-	<bits/stdc++.h>
-	<SDL_image.h>
-	<SDL_mixer.h>
 
