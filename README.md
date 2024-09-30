@@ -31,6 +31,7 @@ Em cảm thấy bài của em có khả năng được vào trong top 10% của 
 - Gameplay thú vị, không khác bản gốc game Chicken Invaders là mấy.
 - Đa dạng vật phẩm, con tàu có tổng cộng 3 loại vũ khí, mỗi vũ khí có sức mạnh cũng như điểm yếu riêng, đặc biệt là vũ khí thunder, vũ khí này xử lý khó khăn hơn rất nhiều. Ngoài ra còn có vật phẩm để upgrade vũ khí.
 - Có tạm dừng game, save game.
+- test git
 - Nhiều animation, transition trong quá trình trải nghiệm game.
 - Âm thanh, sound effect đa dạng, khiến trải nghiệm chơi game không bị nhàm chán. Nhạc nền thay đổi tùy thuộc vào màn của người chơi.
 - Game không tham khảo code của bất kỳ tiền bối nào trước đó, cũng như hoàn toàn tự mày mò trong quá trình làm game. Chỉ tham khảo một vài câu lệnh đặc trưng của thư viện SDL cũng như các thuật toán khó ở một số nguồn.
